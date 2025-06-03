@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Protótipo Customizado - Comparador de Fretes")
+st.title("Comparador de Fretes - Upload Local")
 
 # Upload múltiplo de arquivos Excel/CSV
 uploaded_files = st.file_uploader(
